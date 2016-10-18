@@ -4,8 +4,8 @@
 /* global Package:true */
 
 Package.describe({
-  name: 'twbs:bootstrap13px',  // http://atmospherejs.com/twbs/bootstrap
-  summary: 'bootstrap 13px font.',
+  name: 'twbs:bootstrap12px',  // http://atmospherejs.com/twbs/bootstrap
+  summary: 'bootstrap 12px font.',
   version: '3.3.7',
   git: 'https://github.com/twbs/bootstrap.git'
 });
